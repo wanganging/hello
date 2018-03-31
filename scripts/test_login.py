@@ -21,6 +21,14 @@ class TestAB:
     def test_login2(self):
         assert 1
 
+    def test_login3(self):
+        assert 1
+
+
+
+
+
+
 # if __name__ == '__main__':
 #     pytest.main(["-s","login.py"])
     # 让main函数使用pytest去检测执行 -s 指定 login.py文件
